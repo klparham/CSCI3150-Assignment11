@@ -24,11 +24,10 @@ label{
  	display: inline-block;
 }
 
-#formcol1 input.reqfield {
-	background:rgb(0, 51, 255);
-}
-
 select:focus, select:active, input:focus, input:active, input:focus + label, input:active + label, label[for]:focus, label[for]:active {
 color: #000000 !important;
 background-color: #fbff00 !important;}
 
+#formcol1 input.reqfield {
+	background:rgb(0, 51, 255);
+}
