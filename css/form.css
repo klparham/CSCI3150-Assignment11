@@ -29,6 +29,3 @@ select:focus, select:active, input:focus, input:active, input:focus + label, inp
 color: #000000 !important;
 background-color: #fbff00 !important;}
 
-#formcol1 input.reqfield {
-
-}
